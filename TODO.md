@@ -1,1 +1,2 @@
 - Port all Scripts from branch 7.0 for 8.0 (Master Branch)
+- Check if you revert commits in the master branch you also revert the submodules
